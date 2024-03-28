@@ -1,0 +1,438 @@
+{
+  "networks": [
+    {
+      "name": "ETHEREUM",
+      "rpc": "https://eth.llamarpc.com",
+      "scan": "https://etherscan.io",
+      "token": "ETH",
+      "chain_id": 1
+    },
+    {
+      "name": "OPTIMISM",
+      "rpc": "https://rpc.ankr.com/optimism",
+      "scan": "https://optimistic.etherscan.io/tx",
+      "token": "ETH",
+      "chain_id": 10
+    },
+    {
+      "name": "BINANCE",
+      "rpc": "https://bsc.drpc.org/",
+      "scan": "https://bscscan.com/",
+      "token": "BNB",
+      "chain_id": 56
+    },
+    {
+      "name": "POLYGON",
+      "rpc": "https://rpc.ankr.com/polygon",
+      "scan": "https://polygonscan.com/tx",
+      "token": "MATIC",
+      "chain_id": 137
+    },
+    {
+      "name": "POLYGON-ZKEVM",
+      "rpc": "https://zkevm-rpc.com",
+      "scan": "https://zkevm.polygonscan.com/tx",
+      "token": "ETH",
+      "chain_id": 1101
+    },
+    {
+      "name": "ARBITRUM",
+      "rpc": "https://rpc.ankr.com/arbitrum",
+      "scan": "https://arbiscan.io/tx",
+      "token": "ETH",
+      "chain_id": 42161
+    },
+    {
+      "name": "AVALANCE",
+      "rpc": "https://avalanche.drpc.org",
+      "scan": "https://snowtrace.io/tx",
+      "token": "AVAX",
+      "chain_id": 43114
+    },
+    {
+      "name": "FANTOM",
+      "rpc": "https://rpc.ankr.com/fantom",
+      "scan": "https://ftmscan.com/tx",
+      "token": "FTM",
+      "chain_id": 250
+    },
+    {
+      "name": "NOVAAA",
+      "rpc": "https://nova.arbitrum.io/rpc",
+      "scan": "https://nova.arbiscan.io/tx",
+      "token": "ETH",
+      "chain_id": 42170
+    },
+    {
+      "name": "ZKSYNC",
+      "rpc": "https://mainnet.era.zksync.io",
+      "scan": "https://explorer.zksync.io/tx",
+      "token": "ETH",
+      "chain_id": 324
+    },
+    {
+      "name": "CELO",
+      "rpc": "https://1rpc.io/celo",
+      "scan": "https://celoscan.io/tx",
+      "token": "CELO",
+      "chain_id": 42220
+    },
+    {
+      "name": "GNOSIS",
+      "rpc": "https://rpc.ankr.com/gnosis",
+      "scan": "https://gnosisscan.io/tx",
+      "token": "xDAI",
+      "chain_id": 100
+    },
+    {
+      "name": "CORE",
+      "rpc": "https://rpc.ankr.com/core",
+      "scan": "https://scan.coredao.org/tx",
+      "token": "CORE",
+      "chain_id": 1116
+    },
+    {
+      "name": "HARMONY",
+      "rpc": "https://api.harmony.one",
+      "scan": "https://explorer.harmony.one/tx",
+      "token": "ONE",
+      "chain_id": 1666600000
+    },
+    {
+      "name": "MOONBEAN",
+      "rpc": "https://rpc.ankr.com/moonbeam",
+      "scan": "https://moonscan.io/tx",
+      "token": "GLMR",
+      "chain_id": 1284
+    },
+    {
+      "name": "MOONRIVER",
+      "rpc": "https://moonriver.public.blastapi.io",
+      "scan": "https://moonriver.moonscan.io/tx",
+      "token": "MOVR",
+      "chain_id": 1285
+    },
+    {
+      "name": "LINEA",
+      "rpc": "https://rpc.goerli.linea.build",
+      "scan": "https://lineascan.build/tx",
+      "token": "ETH",
+      "chain_id": 59140
+    },
+    {
+      "name": "BASE",
+      "rpc": "https://mainnet.base.org",
+      "scan": "https://basescan.org/tx",
+      "token": "ETH",
+      "chain_id": 8453
+    },
+    {
+      "name": "KLAYTN",
+      "rpc": "https://klaytn-pokt.nodies.app",
+      "scan": "https://scope.klaytn.com",
+      "token": "KLAY",
+      "chain_id": 8217
+    },
+    {
+      "name": "KCCC",
+      "rpc": "https://rpc-mainnet.kcc.network",
+      "scan": "https://explorer.kcc.io/en",
+      "token": "KCS",
+      "chain_id": 321
+    },
+    {
+      "name": "OPBNB",
+      "rpc": "https://opbnb.publicnode.com",
+      "scan": "https://mainnet.opbnbscan.com",
+      "token": "OPBNB",
+      "chain_id": 204
+    },
+    {
+      "name": "STRACOIN",
+      "rpc": "https://main-seed.starcoin.org",
+      "scan": "https://stcscan.io/main",
+      "token": "STC",
+      "chain_id": 1
+    },
+    {
+      "name": "CONFLUX",
+      "rpc": "https://evm.confluxrpc.com",
+      "scan": "https://evm.confluxscan.net",
+      "token": "CFX",
+      "chain_id": 1030
+    },
+    {
+      "name": "CRONOS",
+      "rpc": "https://evm.cronos.org",
+      "scan": "https://explorer.cronos.org",
+      "token": "CRO",
+      "chain_id": 25
+    },
+    {
+      "name": "SHIBARIUM",
+      "rpc": "https://www.shibrpc.com",
+      "scan": "https://www.shibariumscan.io",
+      "token": "BONE",
+      "chain_id": 109
+    },
+    {
+      "name": "BOBA",
+      "rpc": "https://mainnet.boba.network",
+      "scan": "https://bobascan.com",
+      "token": "ETH",
+      "chain_id": 288
+    },
+    {
+      "name": "MANTLE",
+      "rpc": "https://mantle.publicnode.com",
+      "scan": "https://explorer.mantle.xyz",
+      "token": "MNT",
+      "chain_id": 5000
+    },
+    {
+      "name": "HUOBI",
+      "rpc": "https://http-mainnet.hecochain.com",
+      "scan": "https://hecoinfo.com",
+      "token": "HT",
+      "chain_id": 128
+	  },
+    {
+      "name": "CANTO",
+      "rpc": "https://canto.gravitychain.io",
+      "scan": "https://evm.explorer.canto.io",
+      "token": "CANTO",
+      "chain_id": 7700
+    },
+    {
+      "name": "METIS",
+      "rpc": "https://andromeda.metis.io/?owner=1088",
+      "scan": "https://andromeda-explorer.metis.io",
+      "token": "METIS",
+      "chain_id": 1088
+    },
+    {
+      "name": "TELOS",
+      "rpc": "https://mainnet.telos.net/evm",
+      "scan": "https://teloscan.io",
+      "token": "TLOS",
+      "chain_id": 40
+    },
+    {
+      "name": "BEAM",
+      "rpc": "https://subnets.avax.network/beam/mainnet/rpc",
+      "scan": "https://subnets.avax.network/beam",
+      "token": "BEAM",
+      "chain_id": 4337
+    },
+    {
+      "name": "EVMOS",
+      "rpc": "https://evmos.lava.build",
+      "scan": "https://escan.live",
+      "token": "EVMOS",
+      "chain_id": 9001
+    },
+    {
+      "name": "ZIILIQA",
+      "rpc": "https://api.zilliqa.com",
+      "scan": "https://evmx.zilliqa.com",
+      "token": "ZIL",
+      "chain_id": 32769
+    },
+    {
+      "name": "VELAS",
+      "rpc": "https://evmexplorer.velas.com/rpc",
+      "scan": "https://evmexplorer.velas.com",
+      "token": "VLX",
+      "chain_id": 106
+    },
+    {
+      "name": "FUSE",
+      "rpc": "https://rpc.fuse.io",
+      "scan": "https://explorer.fuse.io",
+      "token": "FUSE",
+      "chain_id": 122 
+    },
+    {
+      "name": "OASIS",
+      "rpc": "https://emerald.oasis.dev",
+      "scan": "https://explorer.emerald.oasis.dev",
+      "token": "ROSE",
+      "chain_id": 42262
+    },
+    {
+      "name": "THETA",
+      "rpc": "https://eth-rpc-api.thetatoken.org/rpc",
+      "scan": "https://explorer.thetatoken.org",
+      "token": "TFUEL",
+      "chain_id": 361
+    },
+    {
+      "name": "ONUS",
+      "rpc": "https://rpc.onuschain.io",
+      "scan": "https://explorer.onuschain.io",
+      "token": "ONUS",
+      "chain_id": 1975
+    },
+    {
+      "name": "BITGERT",
+      "rpc": "https://rpc.icecreamswap.com",
+      "scan": "https://brisescan.com",
+      "token": "BRISE",
+      "chain_id": 32520 
+    },
+    {
+      "name": "CALLISTO",
+      "rpc": "https://rpc.callisto.network",
+      "scan": "https://callisto.network",
+      "token": "CLO",
+      "chain_id": 820
+    },
+    {
+      "name": "SYSCOIN",
+      "rpc": "https://rpc.syscoin.org",
+      "scan": "https://explorer.syscoin.org",
+      "token": "SYS",
+      "chain_id": 57
+    },
+    {
+      "name": "HOOOO",
+      "rpc": "https://http-mainnet.hoosmartchain.com",
+      "scan": "https://www.hooscan.com",
+      "token": "HOO",
+      "chain_id": 70 
+    },
+    {
+      "name": "ACEEE",
+      "rpc": "https://rpc-endurance.fusionist.io",
+      "scan": "https://explorer.endurance.fusionist.io",
+      "token": "ACE",
+      "chain_id": 648
+    },
+    {
+      "name": "ACALA",
+      "rpc": "https://eth-rpc-acala.aca-staging.network",
+      "scan": "https://blockscout.acala.network",
+      "token": "ACA",
+      "chain_id": 787
+    },
+    {
+      "name": "WEMIX",
+      "rpc": "https://api.wemix.com",
+      "scan": "https://explorer.wemix.com",
+      "token": "WEMIX",
+      "chain_id": 1111
+    },
+    {
+      "name": "MILK-ADA",
+      "rpc": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
+      "scan": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com",
+      "token": "mADA",
+      "chain_id": 2001
+    },
+    {
+      "name": "MILK-ALGO",
+      "rpc": "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
+      "scan": "https://explorer-mainnet-algorand-rollup.a1.milkomeda.com",
+      "token": "mALGO",
+      "chain_id": 2002
+    },
+    {
+      "name": "FINDORA",
+      "rpc": "https://rpc-mainnet.findora.org",
+      "scan": "https://evm.findorascan.io",
+      "token": "FRA",
+      "chain_id": 2152
+    },
+    {
+      "name": "BIFROST",
+      "rpc": "https://public-01.mainnet.thebifrost.io/rpc",
+      "scan": "https://explorer.mainnet.thebifrost.io",
+      "token": "BFC",
+      "chain_id": 3068
+    },
+    {
+      "name": "HUMANODE",
+      "rpc": "https://explorer-rpc-http.mainnet.stages.humanode.io",
+      "scan": "https://humanode.subscan.io",
+      "token": "eHMND",
+      "chain_id": 5234
+    },
+    {
+      "name": "MANTA",
+      "rpc": "https://pacific-rpc.manta.network/http",
+      "scan": "https://pacific-explorer.manta.network",
+      "token": "ETH",
+      "chain_id": 169
+    },
+    {
+      "name": "KAVA",
+      "rpc": "https://evm.kava.io",
+      "scan": "https://kavascan.com",
+      "token": "KAVA",
+      "chain_id": 2222
+    },
+    {
+      "name": "ELASTOS",
+      "rpc": "https://api.elastos.io/eth",
+      "scan": "https://explorer.elaeth.io/",
+      "token": "ELA",
+      "chain_id": 20
+    },
+    {
+      "name": "IOTEX",
+      "rpc": "https://babel-api.mainnet.iotex.io",
+      "scan": "https://iotexscan.io/",
+      "token": "IOTEX",
+      "chain_id": 4689
+    },
+    {
+      "name": "NAHMII",
+      "rpc": "https://l2.nahmii.io",
+      "scan": "https://explorer.testnet.nahmii.io/",
+      "token": "ETH",
+      "chain_id": 5533
+    },
+    {
+      "name": "OKEx",
+      "rpc": "https://exchainrpc.okex.org",
+      "scan": "https://www.oklink.com/okexchain",
+      "token": "OKT",
+      "chain_id": 66
+    },
+    {
+      "name": "UBIQ",
+      "rpc": "https://rpc.octano.dev",
+      "scan": "https://ubiqscan.io/",
+      "token": "UBQ",
+      "chain_id": 8
+    },
+    {
+      "name": "NAUTILUS",
+      "rpc": "https://api.nautilus.nautchain.xyz",
+      "scan": "https://nautscan.com/",
+      "token": "ZBC",
+      "chain_id": 22222
+    },
+    {
+      "name": "ASTAR",
+      "rpc": "https://evm.astar.network",
+      "scan": "https://astar.subscan.io",
+      "token": "ASTR",
+      "chain_id": 592
+    },
+    {
+      "name": "COMBO",
+      "rpc": "https://rpc.combonetwork.io",
+      "scan": "https://combotrace.nodereal.io/",
+      "token": "BNB",
+      "chain_id": 9980
+    },
+    {
+      "name": "PLANQ",
+      "rpc": "https://evm-rpc.planq.network",
+      "scan": "https://evm.planq.network",
+      "token": "PLQ",
+      "chain_id": 7070
+    }
+  ]
+}
