@@ -1,5 +1,6 @@
-##Chacek Balance Token and Coin for PC 
-SUpport
--EVM
--edit and add Chain
--Multi wallet address
+## Check Balance Token and Coin for PC
+
+Support
+- EVM
+- Edit and add Chain
+- Multi wallet address
